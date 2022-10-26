@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+    width: 800px;
+    height: 12000px;
+}
+
+article {
+    width: 800px;
+    height: 600px;
+}
+
+#banner-ico {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 40px;
+    left: 150px
+}
+
+address {
+    padding-right: 10%;
+    display: flex;
+    justify-content: right;
+}
